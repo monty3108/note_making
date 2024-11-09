@@ -1,6 +1,6 @@
 [
     {
-        "topic": "today's date",
+        "topic": "code for today's date",
         "subtopic": "today_date = datetime.date.today()",
         "notes": "2024-08-17"
     }
