@@ -1,0 +1,12 @@
+[
+    {
+        "topic": "pip cmds",
+        "subtopic": "-",
+        "notes": "pip list -  lists all packages"
+    },
+    {
+        "topic": "pip cmds",
+        "subtopic": "-",
+        "notes": "pip install pkg_name"
+    }
+]

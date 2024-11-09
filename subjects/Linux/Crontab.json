@@ -1,0 +1,37 @@
+[
+    {
+        "topic": "crontab -l",
+        "subtopic": "list all crontab schedules",
+        "notes": "-"
+    },
+    {
+        "topic": "crontab -e",
+        "subtopic": "open crontab in edit mode",
+        "notes": "-"
+    },
+    {
+        "topic": "sample",
+        "subtopic": "-",
+        "notes": "20 08 * * 1-5 /bin/sh /home/ec2-user/Alice/trade.sh"
+    },
+    {
+        "topic": "Verify cron status service",
+        "subtopic": "Cmd",
+        "notes": "sudo systemctl status crond"
+    },
+    {
+        "topic": "To start",
+        "subtopic": "If services are inactive(dead) ",
+        "notes": "sudo systemctl start crond"
+    },
+    {
+        "topic": "Enable to start on system bootup",
+        "subtopic": "sudo systemctl enable crond",
+        "notes": "Restart on system reboots"
+    },
+    {
+        "topic": "Cron logs",
+        "subtopic": "Cmd to view logs",
+        "notes": "1. tail -f /var/log/syslog | grep cron 2. tail -f /var/log/cron 3. sudo journalctl -u crond"
+    }
+]

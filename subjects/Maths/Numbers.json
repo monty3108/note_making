@@ -1,0 +1,47 @@
+[
+    {
+        "topic": "number squares",
+        "subtopic": "11 to 20",
+        "notes": "121, 144, 169, 196, 225, 256, 289, 324, 361, 400."
+    },
+    {
+        "topic": "squares",
+        "subtopic": "21 to 25",
+        "notes": "441, 484, 529, 576, 625."
+    },
+    {
+        "topic": "natural numbers",
+        "subtopic": "1,2,3....",
+        "notes": "0 is not natural"
+    },
+    {
+        "topic": "whole numbers",
+        "subtopic": "0,1,2...",
+        "notes": "no negative numbers"
+    },
+    {
+        "topic": "integers",
+        "subtopic": "-2,-1,0,1,2....",
+        "notes": "all non decimal numbers"
+    },
+    {
+        "topic": "prime number",
+        "subtopic": "sq(n)>p",
+        "notes": "If p(given number) is not divisible by prime numbers less than or equal to n, then p is a prime number."
+    },
+    {
+        "topic": "co-prime",
+        "subtopic": "eg (8,11)",
+        "notes": "two numbers are co-prime if their HCF is 1"
+    },
+    {
+        "topic": "Divisibility test",
+        "subtopic": "2- last even number, 3- sum is divisible, 4-last 2 digits divisible, 5- last digit 0 or 5",
+        "notes": "6-if divisible by 2&3, 8- last 3 digits divisible, 9- sum divisible by 9"
+    },
+    {
+        "topic": "Divisibility test of 11",
+        "subtopic": "(sum of odd digits) - (sum of even digitss) ",
+        "notes": "if Ans is 0 or Ans is divisible by 11"
+    }
+]

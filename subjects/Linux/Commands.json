@@ -1,0 +1,27 @@
+[
+    {
+        "topic": "Check date time",
+        "subtopic": "Check date",
+        "notes": "date"
+    },
+    {
+        "topic": "Set time zone",
+        "subtopic": "Set to IST",
+        "notes": "sudo timedatectl set-timeone Asia/Kolkata"
+    },
+    {
+        "topic": "less filename.txt",
+        "subtopic": "it will open file to read.",
+        "notes": "press q for exit"
+    },
+    {
+        "topic": "write and quit vim editor",
+        "subtopic": ":wq",
+        "notes": "press esc to come in cmd line"
+    },
+    {
+        "topic": "detach active screen without closing",
+        "subtopic": "ctrl+a+d",
+        "notes": ""
+    }
+]

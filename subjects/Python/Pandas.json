@@ -1,0 +1,32 @@
+[
+    {
+        "topic": "Intro",
+        "subtopic": "import",
+        "notes": "import pandas as df"
+    },
+    {
+        "topic": "Define",
+        "subtopic": "-",
+        "notes": "df = pd.DataFrame"
+    },
+    {
+        "topic": "View",
+        "subtopic": "view first row",
+        "notes": "df.iloc[0]"
+    },
+    {
+        "topic": "View element",
+        "subtopic": "using index & row name",
+        "notes": "df.iloc[0]['row name']"
+    },
+    {
+        "topic": "Empty df",
+        "subtopic": "df = pd.DataFrame()",
+        "notes": ""
+    },
+    {
+        "topic": "Cumulutive Sum",
+        "subtopic": "df['Cum_Sum']=df['amount'].cumsum()",
+        "notes": "It will add cumsum of column amount to column Cum_Sum"
+    }
+]

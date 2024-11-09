@@ -1,0 +1,22 @@
+[
+    {
+        "topic": "nozzle check pattern",
+        "subtopic": "hold stop button until alarm lamp flashes once, release immediately ",
+        "notes": "it will print pattern to check nozzle printing"
+    },
+    {
+        "topic": "cleaning of print head",
+        "subtopic": "hold stop button for 2 flashes",
+        "notes": "it will clean the head gently"
+    },
+    {
+        "topic": "deep cleaning of head",
+        "subtopic": "hold stop button for 3 time flashes",
+        "notes": ""
+    },
+    {
+        "topic": "system cleaning or refill pipes",
+        "subtopic": "hold stop button for 5 time lamp flashes",
+        "notes": "make sure ink must be above single dot. Do only when essential. Ink wastes in this process"
+    }
+]

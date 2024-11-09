@@ -1,0 +1,36 @@
+[
+    {
+        "Python": [
+            "commands",
+            "Pandas",
+            "datetime"
+        ]
+    },
+    {
+        "Linux": [
+            "commands",
+            "Crontab"
+        ]
+    },
+    {
+        "Mahabharat": [
+            "Initial"
+        ]
+    },
+    {
+        "Maths": [
+            "Numbers",
+            "Formula"
+        ]
+    },
+    {
+        "English": [
+            "Vocab"
+        ]
+    },
+    {
+        "Printer": [
+            "Cleaning"
+        ]
+    }
+]
