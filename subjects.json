@@ -1,15 +1,16 @@
 [
     {
         "Python": [
-            "commands",
+            "Commands",
             "Pandas",
-            "datetime",
-            "Pycharm"
+            "Datetime",
+            "Pycharm",
+            "Git"
         ]
     },
     {
         "Linux": [
-            "commands",
+            "Commands",
             "Crontab"
         ]
     },

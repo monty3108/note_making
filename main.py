@@ -145,9 +145,9 @@ def take_note():
   global subject, chapter
   sb = subject
   ch = chapter
-  tp = input('   topic: ')
-  stp = input('   sub-topic: ')
-  nts = input('   notes: ')
+  tp = input('   topic: ').capitalize()
+  stp = input('   sub-topic: ').capitalize()
+  nts = input('   notes: ').capitalize()
   clear_console()
   create_note(sb, ch, tp, stp, nts)
   create_subject(subject)
@@ -162,10 +162,10 @@ def clear_console():
 def select_sub():
   global subject, chapter
   list_sub() 
-  subject = input('   Enter Sub: ')
+  subject = input('   Enter Sub: ').title()
   clear_console() 
   list_chap(subject)
-  chapter= input('   Enter Chapter: ')
+  chapter= input('   Enter Chapter: ').title()
   clear_console() 
 
 def view():
@@ -204,7 +204,7 @@ select_sub()
 while True:
   
   #print(active_selection)
-  option = '   Options \n   1: Add Note\n   2: Select Sub & Ch \n   3: View \n   Ans: ' 
+  option = '   Options \n   1: Add Note\n   2: Select Sub & Ch \n   3: View \n   0: For Exit \nAns: '
   x = input(option)
   if int(x) == 0:
     print('Exiting...')
