@@ -83,5 +83,10 @@
         "topic": "View all branches",
         "subtopic": "Git branch -a",
         "notes": ""
+    },
+    {
+        "topic": "Delete the remote branch",
+        "subtopic": "Git push origin --delete branch_name",
+        "notes": ""
     }
 ]

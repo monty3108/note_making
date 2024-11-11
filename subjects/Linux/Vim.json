@@ -1,0 +1,32 @@
+[
+    {
+        "topic": "Enter insert mode",
+        "subtopic": "Press i ",
+        "notes": "Press esc to return to cmd mode"
+    },
+    {
+        "topic": "Save and exit",
+        "subtopic": ":wq",
+        "notes": ""
+    },
+    {
+        "topic": "Save without exiting",
+        "subtopic": ":w and press enter",
+        "notes": ""
+    },
+    {
+        "topic": "Exit without saving",
+        "subtopic": ":q! and press enter",
+        "notes": ""
+    },
+    {
+        "topic": "Save as a new file",
+        "subtopic": ":w filename and press enter",
+        "notes": ""
+    },
+    {
+        "topic": "Delete a line",
+        "subtopic": "Press dd in command mode to delete entire line",
+        "notes": "Current cursor line will get deleted"
+    }
+]
