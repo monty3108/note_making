@@ -3,7 +3,8 @@
         "Python": [
             "commands",
             "Pandas",
-            "datetime"
+            "datetime",
+            "Pycharm"
         ]
     },
     {
