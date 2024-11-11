@@ -1,4 +1,6 @@
-test.txt
+# personal files
+credentials.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

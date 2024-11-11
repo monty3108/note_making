@@ -8,5 +8,10 @@
         "topic": "pip cmds",
         "subtopic": "-",
         "notes": "pip install pkg_name"
+    },
+    {
+        "topic": "Install jupyter",
+        "subtopic": "pip install jupyter",
+        "notes": "to open in cmd- jupyter notebook"
     }
 ]
