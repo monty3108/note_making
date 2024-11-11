@@ -1,0 +1,87 @@
+[
+    {
+        "topic": "get started",
+        "subtopic": "git config --global user.name \"username\"",
+        "notes": "to initialise username"
+    },
+    {
+        "topic": "Git config --global user.email 'email'",
+        "subtopic": "Initialise email",
+        "notes": ""
+    },
+    {
+        "topic": "Initialize git",
+        "subtopic": "Git init",
+        "notes": "It will initialze current directory"
+    },
+    {
+        "topic": "Add files for staging",
+        "subtopic": "Git add filename",
+        "notes": "Git add --all (to add all files)"
+    },
+    {
+        "topic": "Check status",
+        "subtopic": "Git status",
+        "notes": "Git log (to check all logs)"
+    },
+    {
+        "topic": "Git commit",
+        "subtopic": "Git commit - m 'commit msg'",
+        "notes": "Git commit -a -m 'commit msg' (-a for commit without staging tracked files)"
+    },
+    {
+        "topic": "Git commit log",
+        "subtopic": "Git log",
+        "notes": "It will show all commits"
+    },
+    {
+        "topic": "Git help",
+        "subtopic": "Git command -help",
+        "notes": "Eg. git help --all"
+    },
+    {
+        "topic": "New git branch",
+        "subtopic": "Git branch branch_name",
+        "notes": "Git branch (list all branches)"
+    },
+    {
+        "topic": "Select branch as active",
+        "subtopic": "Git checkout branch_name",
+        "notes": ""
+    },
+    {
+        "topic": "Delete branch",
+        "subtopic": "Git branch -d branch_name",
+        "notes": "-d : delete"
+    },
+    {
+        "topic": "Merge branch",
+        "subtopic": "Git merge branch_name",
+        "notes": "Before this select master branch as active"
+    },
+    {
+        "topic": "Push local rep to github",
+        "subtopic": "Git remote add origin url_rep",
+        "notes": ""
+    },
+    {
+        "topic": "Set remote branch default",
+        "subtopic": "Git push --set-upstream origin master",
+        "notes": ""
+    },
+    {
+        "topic": "Track changes",
+        "subtopic": "Git fetch origin",
+        "notes": "Git status"
+    },
+    {
+        "topic": "Pull or push",
+        "subtopic": "Git pull origin",
+        "notes": "Git push origin"
+    },
+    {
+        "topic": "View all branches",
+        "subtopic": "Git branch -a",
+        "notes": ""
+    }
+]
